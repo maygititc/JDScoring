@@ -1,0 +1,4 @@
+{"timestamp": 1711540496, "level": "INFO", "message": "API request", "data": {"method": "GET", "path": "/api/test", "status_code": 200, "duration_ms": 123.45}}
+{"timestamp": 1711540556, "level": "INFO", "message": "API request", "data": {"method": "POST", "path": "/api/analyze-jd", "status_code": 200, "duration_ms": 345.67}}
+{"timestamp": 1711540616, "level": "WARNING", "message": "API request", "data": {"method": "GET", "path": "/api/logs/invalid", "status_code": 400, "duration_ms": 45.67}}
+{"timestamp": 1711540676, "level": "ERROR", "message": "API request", "data": {"method": "POST", "path": "/api/generate-questions", "status_code": 500, "duration_ms": 567.89}}

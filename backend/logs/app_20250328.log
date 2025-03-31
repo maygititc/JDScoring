@@ -1,0 +1,113 @@
+2025-03-28 10:16:09,366 - interview-prep - INFO - Logging service initialized
+2025-03-28 10:16:12,405 - interview-prep - INFO - Request started: GET /docs from 127.0.0.1
+2025-03-28 10:16:12,411 - interview-prep - INFO - Request completed: GET /docs - Status: 200 - Duration: 6.16ms
+2025-03-28 10:16:12,764 - interview-prep - INFO - Request started: GET /openapi.json from 127.0.0.1
+2025-03-28 10:16:12,849 - interview-prep - INFO - Request completed: GET /openapi.json - Status: 200 - Duration: 84.83ms
+2025-03-28 10:16:16,739 - interview-prep - INFO - Request started: OPTIONS /api/logs/api from 127.0.0.1
+2025-03-28 10:16:16,741 - interview-prep - INFO - Request completed: OPTIONS /api/logs/api - Status: 200 - Duration: 2.08ms
+2025-03-28 10:16:17,003 - interview-prep - INFO - Request started: GET /api/logs/api from 127.0.0.1
+2025-03-28 10:16:17,059 - interview-prep - INFO - Request completed: GET /api/logs/api - Status: 200 - Duration: 55.83ms
+2025-03-28 10:16:17,442 - interview-prep - INFO - Request started: OPTIONS /api/logs/llm from 127.0.0.1
+2025-03-28 10:16:17,445 - interview-prep - INFO - Request completed: OPTIONS /api/logs/llm - Status: 200 - Duration: 2.73ms
+2025-03-28 10:16:17,452 - interview-prep - INFO - Request started: GET /api/logs/llm from 127.0.0.1
+2025-03-28 10:16:17,466 - interview-prep - INFO - Request completed: GET /api/logs/llm - Status: 200 - Duration: 14.01ms
+2025-03-28 10:16:18,258 - interview-prep - INFO - Request started: OPTIONS /api/logs/app from 127.0.0.1
+2025-03-28 10:16:18,259 - interview-prep - INFO - Request completed: OPTIONS /api/logs/app - Status: 200 - Duration: 2.28ms
+2025-03-28 10:16:18,271 - interview-prep - INFO - Request started: GET /api/logs/app from 127.0.0.1
+2025-03-28 10:16:18,284 - interview-prep - INFO - Request completed: GET /api/logs/app - Status: 200 - Duration: 13.12ms
+2025-03-28 10:16:19,207 - interview-prep - INFO - Request started: GET /api/logs/llm from 127.0.0.1
+2025-03-28 10:16:19,221 - interview-prep - INFO - Request completed: GET /api/logs/llm - Status: 200 - Duration: 14.18ms
+2025-03-28 10:16:19,794 - interview-prep - INFO - Request started: GET /api/logs/api from 127.0.0.1
+2025-03-28 10:16:19,809 - interview-prep - INFO - Request completed: GET /api/logs/api - Status: 200 - Duration: 15.01ms
+2025-03-28 10:16:20,489 - interview-prep - INFO - Request started: GET /api/logs/llm from 127.0.0.1
+2025-03-28 10:16:20,506 - interview-prep - INFO - Request completed: GET /api/logs/llm - Status: 200 - Duration: 17.56ms
+2025-03-28 10:16:21,069 - interview-prep - INFO - Request started: GET /api/logs/app from 127.0.0.1
+2025-03-28 10:16:21,084 - interview-prep - INFO - Request completed: GET /api/logs/app - Status: 200 - Duration: 15.11ms
+2025-03-28 10:16:21,761 - interview-prep - INFO - Request started: GET /api/logs/llm from 127.0.0.1
+2025-03-28 10:16:21,775 - interview-prep - INFO - Request completed: GET /api/logs/llm - Status: 200 - Duration: 13.23ms
+2025-03-28 10:16:22,199 - interview-prep - INFO - Request started: GET /api/logs/api from 127.0.0.1
+2025-03-28 10:16:22,211 - interview-prep - INFO - Request completed: GET /api/logs/api - Status: 200 - Duration: 12.49ms
+2025-03-28 10:16:24,489 - interview-prep - INFO - Request started: OPTIONS /api/logs/api from 127.0.0.1
+2025-03-28 10:16:24,493 - interview-prep - INFO - Request completed: OPTIONS /api/logs/api - Status: 200 - Duration: 3.72ms
+2025-03-28 10:16:24,499 - interview-prep - INFO - Request started: GET /api/logs/api from 127.0.0.1
+2025-03-28 10:16:24,566 - interview-prep - INFO - Request completed: GET /api/logs/api - Status: 200 - Duration: 66.24ms
+2025-03-28 10:16:25,431 - interview-prep - INFO - Request started: OPTIONS /api/logs/llm from 127.0.0.1
+2025-03-28 10:16:25,435 - interview-prep - INFO - Request completed: OPTIONS /api/logs/llm - Status: 200 - Duration: 3.26ms
+2025-03-28 10:16:25,455 - interview-prep - INFO - Request started: GET /api/logs/llm from 127.0.0.1
+2025-03-28 10:16:25,534 - interview-prep - INFO - Request completed: GET /api/logs/llm - Status: 200 - Duration: 79.49ms
+2025-03-28 10:16:26,063 - interview-prep - INFO - Request started: OPTIONS /api/logs/app from 127.0.0.1
+2025-03-28 10:16:26,064 - interview-prep - INFO - Request completed: OPTIONS /api/logs/app - Status: 200 - Duration: 0.00ms
+2025-03-28 10:16:26,078 - interview-prep - INFO - Request started: GET /api/logs/app from 127.0.0.1
+2025-03-28 10:16:26,160 - interview-prep - INFO - Request completed: GET /api/logs/app - Status: 200 - Duration: 81.81ms
+2025-03-28 10:16:26,901 - interview-prep - INFO - Request started: GET /api/logs/llm from 127.0.0.1
+2025-03-28 10:16:26,913 - interview-prep - INFO - Request completed: GET /api/logs/llm - Status: 200 - Duration: 11.72ms
+2025-03-28 10:16:27,394 - interview-prep - INFO - Request started: GET /api/logs/api from 127.0.0.1
+2025-03-28 10:16:27,405 - interview-prep - INFO - Request completed: GET /api/logs/api - Status: 200 - Duration: 10.99ms
+2025-03-28 10:16:28,104 - interview-prep - INFO - Request started: GET /api/logs/llm from 127.0.0.1
+2025-03-28 10:16:28,115 - interview-prep - INFO - Request completed: GET /api/logs/llm - Status: 200 - Duration: 10.33ms
+2025-03-28 10:16:28,603 - interview-prep - INFO - Request started: GET /api/logs/app from 127.0.0.1
+2025-03-28 10:16:28,615 - interview-prep - INFO - Request completed: GET /api/logs/app - Status: 200 - Duration: 11.43ms
+2025-03-28 10:16:40,788 - interview-prep - INFO - Request started: GET /api/logs/api from 127.0.0.1
+2025-03-28 10:16:40,798 - interview-prep - INFO - Request completed: GET /api/logs/api - Status: 200 - Duration: 9.62ms
+2025-03-28 10:16:42,039 - interview-prep - INFO - Request started: GET /api/logs/llm from 127.0.0.1
+2025-03-28 10:16:42,054 - interview-prep - INFO - Request completed: GET /api/logs/llm - Status: 200 - Duration: 14.68ms
+2025-03-28 10:16:42,673 - interview-prep - INFO - Request started: GET /api/logs/app from 127.0.0.1
+2025-03-28 10:16:42,686 - interview-prep - INFO - Request completed: GET /api/logs/app - Status: 200 - Duration: 11.51ms
+2025-03-28 10:16:44,850 - interview-prep - INFO - Request started: GET /api/logs/app from 127.0.0.1
+2025-03-28 10:16:44,859 - interview-prep - INFO - Request completed: GET /api/logs/app - Status: 200 - Duration: 9.09ms
+2025-03-28 10:16:45,829 - interview-prep - INFO - Request started: GET /api/logs/llm from 127.0.0.1
+2025-03-28 10:16:45,849 - interview-prep - INFO - Request completed: GET /api/logs/llm - Status: 200 - Duration: 20.09ms
+2025-03-28 10:16:46,368 - interview-prep - INFO - Request started: GET /api/logs/api from 127.0.0.1
+2025-03-28 10:16:46,381 - interview-prep - INFO - Request completed: GET /api/logs/api - Status: 200 - Duration: 12.92ms
+2025-03-28 10:16:47,253 - interview-prep - INFO - Request started: GET /api/logs/llm from 127.0.0.1
+2025-03-28 10:16:47,266 - interview-prep - INFO - Request completed: GET /api/logs/llm - Status: 200 - Duration: 12.70ms
+2025-03-28 10:16:47,689 - interview-prep - INFO - Request started: GET /api/logs/app from 127.0.0.1
+2025-03-28 10:16:47,696 - interview-prep - INFO - Request completed: GET /api/logs/app - Status: 200 - Duration: 6.85ms
+2025-03-28 10:16:48,494 - interview-prep - INFO - Request started: GET /api/logs/api from 127.0.0.1
+2025-03-28 10:16:48,506 - interview-prep - INFO - Request completed: GET /api/logs/api - Status: 200 - Duration: 11.35ms
+2025-03-28 10:16:49,094 - interview-prep - INFO - Request started: GET /api/logs/llm from 127.0.0.1
+2025-03-28 10:16:49,107 - interview-prep - INFO - Request completed: GET /api/logs/llm - Status: 200 - Duration: 13.16ms
+2025-03-28 10:16:49,428 - interview-prep - INFO - Request started: GET /api/logs/app from 127.0.0.1
+2025-03-28 10:16:49,436 - interview-prep - INFO - Request completed: GET /api/logs/app - Status: 200 - Duration: 8.37ms
+2025-03-28 10:16:50,093 - interview-prep - INFO - Request started: GET /api/logs/llm from 127.0.0.1
+2025-03-28 10:16:50,104 - interview-prep - INFO - Request completed: GET /api/logs/llm - Status: 200 - Duration: 11.64ms
+2025-03-28 10:16:50,449 - interview-prep - INFO - Request started: GET /api/logs/api from 127.0.0.1
+2025-03-28 10:16:50,464 - interview-prep - INFO - Request completed: GET /api/logs/api - Status: 200 - Duration: 14.95ms
+2025-03-28 10:16:53,169 - interview-prep - INFO - Request started: GET /api/logs/llm from 127.0.0.1
+2025-03-28 10:16:53,181 - interview-prep - INFO - Request completed: GET /api/logs/llm - Status: 200 - Duration: 12.32ms
+2025-03-28 10:16:54,030 - interview-prep - INFO - Request started: GET /api/logs/app from 127.0.0.1
+2025-03-28 10:16:54,043 - interview-prep - INFO - Request completed: GET /api/logs/app - Status: 200 - Duration: 13.47ms
+2025-03-28 10:16:55,039 - interview-prep - INFO - Request started: GET /api/logs/llm from 127.0.0.1
+2025-03-28 10:16:55,054 - interview-prep - INFO - Request completed: GET /api/logs/llm - Status: 200 - Duration: 15.00ms
+2025-03-28 10:16:55,436 - interview-prep - INFO - Request started: GET /api/logs/api from 127.0.0.1
+2025-03-28 10:16:55,447 - interview-prep - INFO - Request completed: GET /api/logs/api - Status: 200 - Duration: 11.68ms
+2025-03-28 10:16:56,131 - interview-prep - INFO - Request started: GET /api/logs/app from 127.0.0.1
+2025-03-28 10:16:56,146 - interview-prep - INFO - Request completed: GET /api/logs/app - Status: 200 - Duration: 14.74ms
+2025-03-28 10:16:56,706 - interview-prep - INFO - Request started: GET /api/logs/llm from 127.0.0.1
+2025-03-28 10:16:56,719 - interview-prep - INFO - Request completed: GET /api/logs/llm - Status: 200 - Duration: 13.47ms
+2025-03-28 10:16:58,073 - interview-prep - INFO - Request started: GET /api/logs/api from 127.0.0.1
+2025-03-28 10:16:58,086 - interview-prep - INFO - Request completed: GET /api/logs/api - Status: 200 - Duration: 12.62ms
+2025-03-28 10:24:20,164 - interview-prep - INFO - Request started: OPTIONS /api/analyze-jd from 127.0.0.1
+2025-03-28 10:24:20,164 - interview-prep - INFO - Request completed: OPTIONS /api/analyze-jd - Status: 200 - Duration: 0.00ms
+2025-03-28 10:24:20,174 - interview-prep - INFO - Request started: POST /api/analyze-jd from 127.0.0.1
+2025-03-28 10:24:26,839 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-28 10:24:35,470 - interview-prep - INFO - User interaction analyze_jd completed
+2025-03-28 10:24:35,476 - interview-prep - INFO - API call to /analyze-jd completed in 15250.62ms
+2025-03-28 10:24:35,480 - interview-prep - INFO - Request completed: POST /api/analyze-jd - Status: 200 - Duration: 15306.62ms
+2025-03-28 10:24:39,283 - interview-prep - INFO - Request started: OPTIONS /api/generate-questions from 127.0.0.1
+2025-03-28 10:24:39,283 - interview-prep - INFO - Request completed: OPTIONS /api/generate-questions - Status: 200 - Duration: 0.00ms
+2025-03-28 10:24:39,291 - interview-prep - INFO - Request started: POST /api/generate-questions from 127.0.0.1
+2025-03-28 10:24:39,304 - interview-prep - INFO - Generating 5 questions for JD of length 1732
+2025-03-28 10:24:41,199 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-28 10:25:11,211 - interview-prep - WARNING - Falling back to test questions due to empty response
+2025-03-28 10:25:11,213 - interview-prep - INFO - Request completed: POST /api/generate-questions - Status: 200 - Duration: 31922.13ms
+2025-03-28 10:26:25,443 - interview-prep - INFO - Request started: POST /api/analyze-jd from 127.0.0.1
+2025-03-28 10:26:26,901 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-28 10:26:34,603 - interview-prep - INFO - User interaction analyze_jd completed
+2025-03-28 10:26:34,609 - interview-prep - INFO - API call to /analyze-jd completed in 9157.07ms
+2025-03-28 10:26:34,611 - interview-prep - INFO - Request completed: POST /api/analyze-jd - Status: 200 - Duration: 9167.90ms
+2025-03-28 10:26:46,173 - interview-prep - INFO - Request started: POST /api/generate-questions from 127.0.0.1
+2025-03-28 10:26:46,177 - interview-prep - INFO - Generating 5 questions for JD of length 1732
+2025-03-28 10:26:47,087 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-28 10:27:17,109 - interview-prep - WARNING - Falling back to test questions due to empty response
+2025-03-28 10:27:17,113 - interview-prep - INFO - Request completed: POST /api/generate-questions - Status: 200 - Duration: 30940.68ms

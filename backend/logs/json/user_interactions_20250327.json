@@ -1,0 +1,5 @@
+{"timestamp": 1711540496, "level": "INFO", "message": "Application started"}
+{"timestamp": 1711540556, "level": "INFO", "message": "User submitted job description"}
+{"timestamp": 1711540616, "level": "INFO", "message": "Generated 5 questions"}
+{"timestamp": 1711540676, "level": "WARNING", "message": "User provided short answer"}
+{"timestamp": 1711540736, "level": "ERROR", "message": "Error processing request"}

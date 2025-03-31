@@ -1,0 +1,4 @@
+2025-03-27 12:34:56,789 - interview-prep - INFO - {"method": "GET", "path": "/api/test", "status_code": 200, "duration_ms": 123.45}
+2025-03-27 12:35:56,789 - interview-prep - INFO - {"method": "POST", "path": "/api/analyze-jd", "status_code": 200, "duration_ms": 345.67}
+2025-03-27 12:36:56,789 - interview-prep - WARNING - {"method": "GET", "path": "/api/logs/invalid", "status_code": 400, "duration_ms": 45.67}
+2025-03-27 12:37:56,789 - interview-prep - ERROR - {"method": "POST", "path": "/api/generate-questions", "status_code": 500, "duration_ms": 567.89}

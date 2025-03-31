@@ -13,7 +13,7 @@ Create a Single Page Application (SPA) using Python and FastAPI that processes J
 ```
 - Python 3.9+
 - FastAPI framework
-- DeepSeek API integration for LLM capabilities
+- OpenAI/DeepSeek API integration for LLM capabilities
 - Pydantic for data validation
 - Optional SQLite/PostgreSQL for data persistence
 - CORS middleware for SPA integration
@@ -36,7 +36,7 @@ Create a Single Page Application (SPA) using Python and FastAPI that processes J
 - Submit button to send JD for analysis
 - Backend endpoint (/analyze-jd) that:
   - Validates input is at least 200 characters
-  - Uses DeepSeek API to analyze if text is >80% JD content
+  - Uses OpenAI/DeepSeek API to analyze if text is >80% JD content
   - Returns analysis result with confidence percentage
   - Generates a 3-5 sentence overview of the JD
 ```
@@ -46,7 +46,7 @@ Create a Single Page Application (SPA) using Python and FastAPI that processes J
 - If JD validation passes (>80% confidence):
   - Show dropdown with question count options (5,10,20,30,40,50)
   - Submit button to generate questions (/generate-questions)
-  - Backend uses DeepSeek API to:
+  - Backend uses OpenAI/DeepSeek API to:
     - Create relevant questions based on JD content
     - Store correct answers for evaluation
     - Return questions in consistent JSON format
@@ -60,7 +60,7 @@ Create a Single Page Application (SPA) using Python and FastAPI that processes J
   - Submit button for individual question evaluation
 - Evaluation endpoint (/evaluate-answer) that:
   - Compares user answer with stored correct answer
-  - Uses DeepSeek for semantic comparison (not just exact match)
+  - Uses OpenAI/DeepSeek for semantic comparison (not just exact match)
   - Returns correctness score (0-100%) with explanation
   - Updates overall test score
 ```
@@ -151,7 +151,7 @@ POST /evaluate-answer
 - Scalability considerations
 ```
 
-## Example Prompt for DeepSeek Integration
+## Example Prompt for OpenAI/DeepSeek Integration
 
 "When analyzing JD text, use this prompt framework:
 'Analyze the following text and determine if it constitutes a professional job description. Consider factors like presence of job responsibilities, required qualifications, and company information. Return confidence percentage (0-100%) and a concise 3-sentence overview highlighting key aspects if it is a JD.'"

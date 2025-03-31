@@ -1,3 +1,5 @@
+## Job Descriptions (JD) Scoring Using LLM (OpenAI, DeepSeek)
+
 ## Project Overview
 Create a Single Page Application (SPA) using Python and FastAPI that processes Job Descriptions (JD) with the following multi-step workflow:
 1. JD input and validation

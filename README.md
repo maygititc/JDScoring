@@ -53,6 +53,7 @@ Create a Single Page Application (SPA) using Python and FastAPI that processes J
     - Store correct answers for evaluation
     - Return questions in consistent JSON format
 ```
+![Alt text](Image/Image_3.png)
 
 ### 3. Answer Evaluation
 ```
@@ -66,6 +67,7 @@ Create a Single Page Application (SPA) using Python and FastAPI that processes J
   - Returns correctness score (0-100%) with explanation
   - Updates overall test score
 ```
+![Alt text](Image/Image_4.png)
 
 ### 4. Scoring System
 ```
@@ -76,6 +78,8 @@ Create a Single Page Application (SPA) using Python and FastAPI that processes J
 - Visual indicators for performance
 - Final summary upon completion
 ```
+
+![Alt text](Image/Image_5.png)
 
 ## API Specifications
 
@@ -114,6 +118,7 @@ POST /evaluate-answer
     "improvement_suggestions": "text" 
 }
 ```
+![Alt text](Image/Image_BE.png)
 
 ## UI/UX Requirements
 

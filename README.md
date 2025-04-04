@@ -40,6 +40,8 @@ Create a Single Page Application (SPA) using Python and FastAPI that processes J
   - Returns analysis result with confidence percentage
   - Generates a 3-5 sentence overview of the JD
 ```
+![Alt text](Image/Image_1.png)
+![Alt text](Image/Image_2.png)
 
 ### 2. Question Generation
 ```
